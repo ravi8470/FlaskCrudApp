@@ -1,3 +1,6 @@
 flaskcrudvenv/
+
+__pycache__/
+
 dist/
 build/
