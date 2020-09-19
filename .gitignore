@@ -2,5 +2,8 @@ flaskcrudvenv/
 
 __pycache__/
 
+# remove db files
+instance/
+
 dist/
 build/
